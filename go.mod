@@ -1,4 +1,4 @@
-module github.com/HAtherlolz/proto_test
+module github.com/HAtherlolz/protos_test
 
 go 1.21.5
 
